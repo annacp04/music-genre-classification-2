@@ -1,0 +1,4 @@
+ensemble,members,mean_acc,std_acc,best_single,best_single_mean_acc,gain_vs_best_single,seeds_ensemble_wins,p_mcnemar_vs_best,p_nadeau_bengio,oracle_acc
+Lab1 + CNN,"lab1_random_forest_correlation, cnn_scratch",0.813,0.019874606914351754,lab1_random_forest_correlation,0.825,-0.011999999999999988,1,0.13604594767093658,0.6541475396789265,0.898
+Lab1 + CNN + VGG16,"lab1_random_forest_correlation, cnn_scratch, vgg16_ft",0.7949999999999999,0.025739075352467475,lab1_random_forest_correlation,0.825,-0.030000000000000006,2,0.5966148958541453,0.35278341672360014,0.914
+Lab1 + VGG16,"lab1_random_forest_correlation, vgg16_ft",0.757,0.011510864433221349,lab1_random_forest_correlation,0.825,-0.06799999999999999,0,0.3603776529357674,0.047317664784100835,0.89
